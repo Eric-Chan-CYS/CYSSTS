@@ -1,0 +1,8 @@
+package com.cvicse.spring;
+
+import org.springframework.web.bind.annotation.*;
+
+@Controller("/HelloWorld")
+public class Hello {
+
+}

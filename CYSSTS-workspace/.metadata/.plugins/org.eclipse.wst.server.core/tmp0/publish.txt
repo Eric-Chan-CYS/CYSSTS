@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Fri Dec 01 17:38:58 CST 2017
+org.eclipse.jst.jee.server\:/binary\:/Users/changxingnantong/eclipse-workspace/test1/WebContent/WEB-INF/lib/spring-web-4.3.2.RELEASE.jar=/Users/changxingnantong/tomcat/webapps/test1/WEB-INF/lib/spring-web-4.3.2.RELEASE.jar
+org.eclipse.jst.jee.server\:test1=/Users/changxingnantong/tomcat/webapps/test1

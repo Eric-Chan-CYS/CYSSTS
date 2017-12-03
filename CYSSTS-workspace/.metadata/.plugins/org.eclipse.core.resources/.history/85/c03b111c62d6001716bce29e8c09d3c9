@@ -1,0 +1,16 @@
+package com.cvicse.spring;
+
+import org.springframework.stereotype.*;
+import org.springframework.web.bind.annotation.*;
+
+@Controller("/HelloWorld")
+public class Hello {
+
+	public String hello1() {
+		String str = new String();
+		str = "Hello.jsp";
+		System.out.print(str);
+		return str;
+	}
+	
+}
